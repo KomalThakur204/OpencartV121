@@ -1,0 +1,104 @@
+2025-11-17 11:17:48 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\2445045\SeleniumWebDriver\OpencartV121\master.xml"
+2025-11-17 11:17:48 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445045\SeleniumWebDriver\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-11-17 11:17:49 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\2445045\SeleniumWebDriver\OpencartV121\master.xml
+
+2025-11-17 11:19:23 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\2445045\SeleniumWebDriver\OpencartV121\master.xml"
+2025-11-17 11:19:23 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445045\SeleniumWebDriver\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-11-17 11:19:23 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\2445045\SeleniumWebDriver\OpencartV121\master.xml
+
+2025-11-17 11:19:29 INFO  TC001_AccountRegisterationTest:16 - ******Starting TC001_AccountRegisterationTest*******
+2025-11-17 11:19:30 INFO  TC001_AccountRegisterationTest:20 - Clicked on MyAccount Link
+2025-11-17 11:19:31 INFO  TC001_AccountRegisterationTest:23 - Clicked on Register Link
+2025-11-17 11:19:31 INFO  TC001_AccountRegisterationTest:27 - Providing customer details.....
+2025-11-17 11:19:32 INFO  TC001_AccountRegisterationTest:39 - Validating expected message...
+2025-11-17 11:19:32 INFO  TC001_AccountRegisterationTest:56 - *****Finished TC001_AccountRegisterationTest*****
+2025-11-17 11:19:37 INFO  TC002_LoginTest:15 - *****Starting the TC002_LoginTest*****
+2025-11-17 11:19:38 INFO  TC002_LoginTest:39 - *****Finished the TC002_LoginTest*****
+2025-11-17 11:21:19 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\2445045\SeleniumWebDriver\OpencartV121\master.xml"
+2025-11-17 11:21:19 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445045\SeleniumWebDriver\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-11-17 11:21:19 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\2445045\SeleniumWebDriver\OpencartV121\master.xml
+
+2025-11-17 11:23:02 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\2445045\SeleniumWebDriver\OpencartV121\master.xml"
+2025-11-17 11:23:02 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445045\SeleniumWebDriver\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-11-17 11:23:03 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\2445045\SeleniumWebDriver\OpencartV121\master.xml
+
+2025-11-17 11:25:19 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\2445045\SeleniumWebDriver\OpencartV121\master.xml"
+2025-11-17 11:25:19 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445045\SeleniumWebDriver\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-11-17 11:25:20 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\2445045\SeleniumWebDriver\OpencartV121\master.xml
+
+2025-11-17 11:25:24 INFO  TC001_AccountRegisterationTest:16 - ******Starting TC001_AccountRegisterationTest*******
+2025-11-17 11:25:24 INFO  TC001_AccountRegisterationTest:20 - Clicked on MyAccount Link
+2025-11-17 11:25:25 INFO  TC001_AccountRegisterationTest:23 - Clicked on Register Link
+2025-11-17 11:25:25 INFO  TC001_AccountRegisterationTest:27 - Providing customer details.....
+2025-11-17 11:25:25 INFO  TC001_AccountRegisterationTest:39 - Validating expected message...
+2025-11-17 11:25:26 INFO  TC001_AccountRegisterationTest:56 - *****Finished TC001_AccountRegisterationTest*****
+2025-11-17 11:25:31 INFO  TC002_LoginTest:15 - *****Starting the TC002_LoginTest*****
+2025-11-17 11:25:33 INFO  TC002_LoginTest:39 - *****Finished the TC002_LoginTest*****
+2025-11-17 11:26:23 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\2445045\SeleniumWebDriver\OpencartV121\master.xml"
+2025-11-17 11:26:23 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445045\SeleniumWebDriver\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-11-17 11:26:23 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\2445045\SeleniumWebDriver\OpencartV121\master.xml
+
+2025-11-17 11:26:26 INFO  TC001_AccountRegisterationTest:16 - ******Starting TC001_AccountRegisterationTest*******
+2025-11-17 11:26:27 INFO  TC001_AccountRegisterationTest:20 - Clicked on MyAccount Link
+2025-11-17 11:26:27 INFO  TC001_AccountRegisterationTest:23 - Clicked on Register Link
+2025-11-17 11:26:27 INFO  TC001_AccountRegisterationTest:27 - Providing customer details.....
+2025-11-17 11:26:28 INFO  TC001_AccountRegisterationTest:39 - Validating expected message...
+2025-11-17 11:26:29 INFO  TC001_AccountRegisterationTest:56 - *****Finished TC001_AccountRegisterationTest*****
+2025-11-17 11:26:34 INFO  TC002_LoginTest:15 - *****Starting the TC002_LoginTest*****
+2025-11-17 11:26:36 INFO  TC002_LoginTest:39 - *****Finished the TC002_LoginTest*****
+2025-11-17 11:29:08 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\2445045\SeleniumWebDriver\OpencartV121\crossbrowsertesting.xml"
+2025-11-17 11:29:08 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445045\SeleniumWebDriver\OpencartV121\crossbrowsertesting.xml] otherwise TestNG may fail or not work as expected.
+2025-11-17 11:29:08 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\2445045\SeleniumWebDriver\OpencartV121\crossbrowsertesting.xml
+
+2025-11-17 11:29:14 INFO  TC001_AccountRegisterationTest:16 - ******Starting TC001_AccountRegisterationTest*******
+2025-11-17 11:29:14 INFO  TC001_AccountRegisterationTest:16 - ******Starting TC001_AccountRegisterationTest*******
+2025-11-17 11:29:14 INFO  TC001_AccountRegisterationTest:20 - Clicked on MyAccount Link
+2025-11-17 11:29:14 INFO  TC001_AccountRegisterationTest:20 - Clicked on MyAccount Link
+2025-11-17 15:59:01 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\2445045\SeleniumWebDriver\OpencartV121\master.xml"
+2025-11-17 15:59:01 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445045\SeleniumWebDriver\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-11-17 15:59:01 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\2445045\SeleniumWebDriver\OpencartV121\master.xml
+
+2025-11-17 15:59:07 INFO  TC001_AccountRegisterationTest:16 - ******Starting TC001_AccountRegisterationTest*******
+2025-11-17 15:59:07 INFO  TC001_AccountRegisterationTest:20 - Clicked on MyAccount Link
+2025-11-17 15:59:08 INFO  TC001_AccountRegisterationTest:23 - Clicked on Register Link
+2025-11-17 15:59:08 INFO  TC001_AccountRegisterationTest:27 - Providing customer details.....
+2025-11-17 15:59:09 INFO  TC001_AccountRegisterationTest:39 - Validating expected message...
+2025-11-17 15:59:09 INFO  TC001_AccountRegisterationTest:56 - *****Finished TC001_AccountRegisterationTest*****
+2025-11-17 15:59:13 INFO  TC002_LoginTest:15 - *****Starting the TC002_LoginTest*****
+2025-11-17 15:59:14 INFO  TC002_LoginTest:39 - *****Finished the TC002_LoginTest*****
+2025-11-17 16:05:13 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\2445045\SeleniumWebDriver\OpencartV121\master.xml"
+2025-11-17 16:05:13 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445045\SeleniumWebDriver\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-11-17 16:05:18 INFO  TC001_AccountRegisterationTest:16 - ******Starting TC001_AccountRegisterationTest*******
+2025-11-17 16:05:18 INFO  TC001_AccountRegisterationTest:20 - Clicked on MyAccount Link
+2025-11-17 16:05:19 INFO  TC001_AccountRegisterationTest:23 - Clicked on Register Link
+2025-11-17 16:05:19 INFO  TC001_AccountRegisterationTest:27 - Providing customer details.....
+2025-11-17 16:05:20 INFO  TC001_AccountRegisterationTest:39 - Validating expected message...
+2025-11-17 16:05:20 INFO  TC001_AccountRegisterationTest:56 - *****Finished TC001_AccountRegisterationTest*****
+2025-11-17 16:05:25 INFO  TC002_LoginTest:15 - *****Starting the TC002_LoginTest*****
+2025-11-17 16:05:27 INFO  TC002_LoginTest:39 - *****Finished the TC002_LoginTest*****
+2025-11-17 17:14:57 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\2445045\SeleniumWebDriver\OpencartV121\master.xml"
+2025-11-17 17:14:57 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445045\SeleniumWebDriver\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-11-17 17:15:04 INFO  TC001_AccountRegisterationTest:16 - ******Starting TC001_AccountRegisterationTest*******
+2025-11-17 17:15:05 INFO  TC001_AccountRegisterationTest:20 - Clicked on MyAccount Link
+2025-11-17 17:15:06 INFO  TC001_AccountRegisterationTest:23 - Clicked on Register Link
+2025-11-17 17:15:06 INFO  TC001_AccountRegisterationTest:27 - Providing customer details.....
+2025-11-17 17:15:08 INFO  TC001_AccountRegisterationTest:39 - Validating expected message...
+2025-11-17 17:15:08 INFO  TC001_AccountRegisterationTest:56 - *****Finished TC001_AccountRegisterationTest*****
+2025-11-17 17:15:13 INFO  TC002_LoginTest:15 - *****Starting the TC002_LoginTest*****
+2025-11-17 17:15:14 INFO  TC002_LoginTest:39 - *****Finished the TC002_LoginTest*****
+2025-11-17 17:40:23 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\2445045\SeleniumWebDriver\OpencartV121\master.xml"
+2025-11-17 17:40:23 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\2445045\SeleniumWebDriver\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-11-17 17:40:27 INFO  TC001_AccountRegisterationTest:16 - ******Starting TC001_AccountRegisterationTest*******
+2025-11-17 17:40:27 INFO  TC001_AccountRegisterationTest:20 - Clicked on MyAccount Link
+2025-11-17 17:40:28 INFO  TC001_AccountRegisterationTest:23 - Clicked on Register Link
+2025-11-17 17:40:28 INFO  TC001_AccountRegisterationTest:27 - Providing customer details.....
+2025-11-17 17:40:29 INFO  TC001_AccountRegisterationTest:39 - Validating expected message...
+2025-11-17 17:40:29 INFO  TC001_AccountRegisterationTest:56 - *****Finished TC001_AccountRegisterationTest*****
